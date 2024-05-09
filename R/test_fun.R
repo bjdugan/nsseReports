@@ -12,7 +12,3 @@ test_fun <- function() {
     )
 }
 
-usethis::create_from_github(
-  "https://github.com/bjdugan/nsseReports.git",
-  destdir = "C:/Users/bjdugan/Documents/projects/reporting/nsseReports"
-)
