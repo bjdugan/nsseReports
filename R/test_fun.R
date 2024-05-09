@@ -7,5 +7,7 @@
 #' test_fun()
 test_fun <- function() {
   cat("Testing, 1, 2, 3...\n")
-  beepr::beep(sample(1:11, 1))
+  beepr::beep(
+    base::sample(1:11, 1)
+    )
 }
