@@ -14,3 +14,5 @@ Config/testthat/edition: 3
 Imports: 
     base,
     beepr
+URL: https://github.com/bjdugan/nsseReports
+BugReports: https://github.com/bjdugan/nsseReports/issues
